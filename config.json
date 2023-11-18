@@ -1,0 +1,31 @@
+{
+  "_aciklama": "delaylar milisaniye olarak hesaplaniyor 1 saniye = 1000 1 dakika = 60000 file nameye mesaj dosyasinin adi",
+  "channels": [
+    { "id": "856683164616097832", "delay": 120000, "fileName": "psxmm2adoptmeee", "image": "" },
+    { "id": "1146320277270171759", "delay": 60000, "fileName": "psxmm2adoptmeee", "image": "" },
+    { "id": "1030922107338633328", "delay": 300000, "fileName": "psxmm2adoptmeee", "image": "" },
+    { "id": "1030932615106138183", "delay": 300000, "fileName": "psxmm2adoptmeee", "image": "" },
+	{ "id": "1085512891056275486", "delay": 60000, "fileName": "psxmm2adoptmeee", "image": "" },
+	{ "id": "1103699067818758145", "delay": 60000, "fileName": "psxmm2adoptmeee", "image": "" }
+  ],
+  "_aciklama": "auto dm mesaji",
+  "afkMessage": "hi!",
+  "_aciklama": "hesap tokeni",
+  "botToken": "MTEzOTY0MzQwNzM3NjA2MDQzNg.GCDUea.eo0s5PCz3elY5sH5eRPufqbR2rSiYmajdktIHs",
+  "_aciklama": "elleme test module",
+  "excludedUserId": "",
+  "_aciklama": "webhook urlsi",
+  "webhookUrl": "https://discord.com/api/webhooks/1175433475436851200/Qd362P2eT2Ngt2ZiDug1vWgtsZCf08kUaeuI6y38XmpxV1vp37UmWC5lO-wYMHLu0NGZ",
+  "webhookName": "The Messanger of GOD",
+  "webhookAvatarURL": "https://icon2.cleanpng.com/20180329/zpq/kisspng-nazareth-christianity-clip-art-jesus-christ-5abd15d9260348.5876548015223413371557.jpg",
+  "_aciklama": "bot olarak kullanilcak hesabin idsi",
+  "userId": "1139643407376060436",
+  "_aciklama": "ana hesap idsi",
+  "mainAccId": "1149625743484145724",
+  "_aciklama": "kac saniyede bir tekrar denesin yapamazsa default 5 saniye 1 saniye = 1000 1 dakika = 60000",
+  "retryDelay": 5000,
+  "_aciklama": "pinglemek istiyosaniz true",
+  "includeMention": false,
+  "_aciklama": "buraya pinglemek istediğiniz idleri yazınız",
+  "mentionUserIds": [""]
+}
